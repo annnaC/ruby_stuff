@@ -1,0 +1,930 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sin",
+				"sing_me_a_song"
+			],
+			[
+				"S",
+				"Song"
+			],
+			[
+				"es",
+				"exists"
+			],
+			[
+				"T",
+				"TX"
+			],
+			[
+				"ci",
+				"cities"
+			],
+			[
+				"put",
+				"puts"
+			],
+			[
+				"fl",
+				"Florida"
+			],
+			[
+				"mi",
+				"Michigan"
+			],
+			[
+				"Y",
+				"York"
+			],
+			[
+				"Ca",
+				"CA"
+			],
+			[
+				"DI",
+				"Dict"
+			],
+			[
+				"Di",
+				"Dict"
+			],
+			[
+				"delet",
+				"delete"
+			],
+			[
+				"g",
+				"get_bucket"
+			],
+			[
+				"D",
+				"Dict"
+			],
+			[
+				"get",
+				"get_slot"
+			],
+			[
+				"dic",
+				"Dict"
+			],
+			[
+				"bu",
+				"bucket"
+			],
+			[
+				"ha",
+				"hash_key"
+			],
+			[
+				"num",
+				"num_buckets"
+			],
+			[
+				"cit",
+				"cities"
+			],
+			[
+				"sta",
+				"states"
+			],
+			[
+				"ab",
+				"abbrev"
+			],
+			[
+				"abre",
+				"abbrev"
+			],
+			[
+				"abb",
+				"abbrev"
+			],
+			[
+				"st",
+				"states"
+			],
+			[
+				"Mi",
+				"Michigan"
+			],
+			[
+				"O",
+				"OR"
+			],
+			[
+				"n",
+				"NY"
+			],
+			[
+				"door",
+				"door_choice"
+			],
+			[
+				"do",
+				"door_choice"
+			],
+			[
+				"doo",
+				"door"
+			],
+			[
+				"star",
+				"start"
+			],
+			[
+				"ch",
+				"choice"
+			],
+			[
+				"be",
+				"bear_room"
+			],
+			[
+				"gold",
+				"gold_room"
+			],
+			[
+				"bear",
+				"bear_moved"
+			],
+			[
+				"bea",
+				"bear_moved"
+			],
+			[
+				"wi",
+				"while	while ... end"
+			],
+			[
+				"ho",
+				"how_much"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"nu",
+				"number_I_give"
+			],
+			[
+				"pus",
+				"push_number_to_array"
+			],
+			[
+				"pu",
+				"push_number_to_array"
+			],
+			[
+				"number",
+				"number"
+			],
+			[
+				"numbers",
+				"numbers"
+			],
+			[
+				"the",
+				"the_count"
+			],
+			[
+				"tr",
+				"trucks"
+			],
+			[
+				"so",
+				"sorted_words"
+			],
+			[
+				"word",
+				"words"
+			],
+			[
+				"p",
+				"print_first_word"
+			],
+			[
+				"prin",
+				"print_first_and_last"
+			],
+			[
+				"pr",
+				"print_last_word"
+			],
+			[
+				"se",
+				"sentence"
+			],
+			[
+				"bre",
+				"break_words"
+			],
+			[
+				"sor",
+				"sort_words"
+			],
+			[
+				"E",
+				"Ex25"
+			],
+			[
+				"wo",
+				"words"
+			],
+			[
+				"wor",
+				"words"
+			],
+			[
+				"sart",
+				"start_point"
+			],
+			[
+				"ad",
+				"add"
+			],
+			[
+				"ae",
+				"age"
+			],
+			[
+				"su",
+				"substract"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"cure",
+				"current_file"
+			],
+			[
+				"cu",
+				"current_line"
+			],
+			[
+				"pri",
+				"print_all"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"us",
+				"username2"
+			],
+			[
+				"usre",
+				"username_and_password"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"am",
+				"amount_of_cheese"
+			],
+			[
+				"c",
+				"cheese_count"
+			],
+			[
+				"che",
+				"cheese_and_crackers"
+			],
+			[
+				"box",
+				"boxes_of_crackers"
+			],
+			[
+				"bo",
+				"boxes_of_crackers"
+			],
+			[
+				"arg",
+				"arg"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"out",
+				"out_file"
+			],
+			[
+				"to",
+				"to_file"
+			],
+			[
+				"line",
+				"line2"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"ta",
+				"target"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"ope",
+				"open"
+			],
+			[
+				"t",
+				"text_again"
+			],
+			[
+				"li",
+				"lives"
+			],
+			[
+				"lik",
+				"likes"
+			],
+			[
+				"use",
+				"user_name"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "util.rb",
+			"settings":
+			{
+				"buffer_size": 77,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ex38.rb",
+			"settings":
+			{
+				"buffer_size": 963,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ex31_2.rb",
+			"settings":
+			{
+				"buffer_size": 1773,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ex39.rb",
+			"settings":
+			{
+				"buffer_size": 1503,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dict_39.rb",
+			"settings":
+			{
+				"buffer_size": 1618,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ex40.rb",
+			"settings":
+			{
+				"buffer_size": 969,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ex39_test.rb",
+			"settings":
+			{
+				"buffer_size": 1434,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ana/new/ruby_stuff"
+	],
+	"file_history":
+	[
+		"/home/ana/new/ruby_stuff/ex39.rb",
+		"/home/ana/new/ruby_stuff/ex31.rb",
+		"/home/ana/new/ruby_stuff/ex30.rb",
+		"/home/ana/new/ruby_stuff/ex33.rb",
+		"/home/ana/new/ruby_stuff/ex32.rb",
+		"/home/ana/new/ruby_stuff/ex31_2.rb",
+		"/home/ana/new/ruby_stuff/ex35.rb",
+		"/home/ana/new/ruby_stuff/study_drills_ex33.rb",
+		"/home/ana/new/ruby_stuff/ex26.rb",
+		"/home/ana/new/ruby_stuff/ex29.rb",
+		"/home/ana/new/ruby_stuff/ex24.rb",
+		"/home/ana/new/ruby_stuff/ex25.rb",
+		"/home/ana/new/ruby_stuff/module25.rb",
+		"/home/ana/new/ruby_stuff/ex19.rb",
+		"/home/ana/new/ruby_stuff/ex19_2.rb",
+		"/home/ana/new/ruby_stuff/ex21.rb",
+		"/home/ana/new/ruby_stuff/ex10.rb",
+		"/home/ana/new/ruby_stuff/ex11.rb",
+		"/home/ana/new/ruby_stuff/ex12.rb",
+		"/home/ana/new/ruby_stuff/ex18.rb",
+		"/home/ana/new/ruby_stuff/ex20.rb",
+		"/home/ana/new/ruby_stuff/ex17.rb",
+		"/home/ana/new/ruby_stuff/ex16.rb",
+		"/home/ana/new/ruby_stuff/ex15.rb",
+		"/home/ana/new/ruby_stuff/ex14.rb",
+		"/home/ana/new/ruby_stuff/ex13.rb",
+		"/home/ana/new/ruby_stuff/ex1.rb",
+		"/home/ana/new/ruby_stuff/ex2.rb",
+		"/home/ana/new/ruby_stuff/ex3.rb",
+		"/home/ana/new/ruby_stuff/ex4.rb",
+		"/home/ana/new/ruby_stuff/ex5.rb",
+		"/home/ana/new/ruby_stuff/ex6.rb",
+		"/home/ana/new/ruby_stuff/ex7.rb",
+		"/home/ana/new/ruby_stuff/ex8.rb",
+		"/home/ana/new/ruby_stuff/ex9.rb",
+		"/home/ana/new/ruby_stuff/ex15_sample.txt",
+		"/home/ana/new/ruby_stuff/testex16.txt",
+		"/home/ana/new/ruby_stuff/ouput.txt",
+		"/home/ana/new/ruby_stuff/new_test.txt",
+		"/home/ana/new/ruby_stuff/test.txt",
+		"/home/ana/new/ruby_stuff/test",
+		"/home/ana/new/ruby_stuff/test1.txt",
+		"/home/ana/new/ruby_stuff/small_script_ex12.rb",
+		"/home/ana/new/ruby_stuff/small_script(ex12).rb",
+		"/home/ana/new/ruby_stuff/small script (ex12).rb"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bear",
+			"= $stdin.gets.chomp",
+			"chomp",
+			" $stdin.gets.chomp",
+			"$stdin.gets.chomp",
+			"}\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "util.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 77,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								62,
+								62
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ex38.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 963,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								767,
+								767
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 24.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ex31_2.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1773,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1773,
+								1773
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "ex39.rb",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1503,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "dict_39.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1618,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1526,
+								1526
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 864.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "ex40.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 969,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								810,
+								810
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 324.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "ex39_test.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1434,
+								1434
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "ruby.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"21",
+				"ex21.rb"
+			],
+			[
+				"19",
+				"ex19_2.rb"
+			],
+			[
+				"",
+				"ex12.rb"
+			],
+			[
+				"1",
+				"ex10.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

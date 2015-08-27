@@ -1,0 +1,5 @@
+puts "expenses for this month"
+puts "wages are 1300"
+puts "rent is 360"
+puts "other expenses: 455.67"
+puts "balance is now: #{1300-360-455.67}"
